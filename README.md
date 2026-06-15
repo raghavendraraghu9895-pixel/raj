@@ -41,7 +41,7 @@ Tools
 
 ---
 
-💼 Working experience
+💼 Work experience
 
 Junior Software Developer Associate – We Taac Technologies Ltd
 
