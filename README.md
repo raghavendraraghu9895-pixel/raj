@@ -93,8 +93,7 @@ https://github-profile-trophy.vercel.app/?username=raghavendraraghu9895&theme=on
 
 🌐 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Raghavendra_M-blue?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/raghu-raghu-b05175305)
-
+""LinkedIn" (https://www.linkedin.com/in/raghu-raghu-b05175305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 🚀 Building scalable backend systems one API at a time
