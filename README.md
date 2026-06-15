@@ -1,140 +1,100 @@
-Create a world-class animated GitHub Profile README for me.
+<div align="center">Hi 👋, I'm Raghavendra M
 
-Do NOT ask questions.
-Generate the complete README.md code only.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Backend+Developer;Golang+Developer;API+Developer;Data+Engineering+Enthusiast;Always+Learning+New+Technologies" /><img src="https://komarev.com/ghpvc/?username=raghavendraraghu9895&label=Profile+Views&color=blueviolet&style=for-the-badge" /></div>---
 
-MY DETAILS
+🚀 About Me
 
-Name: Raghavendra M
+🎓 Electronics & Communication Engineering Graduate
 
-GitHub Username:
-raghavendraraghu9895
+💼 Junior Software Developer Intern at AMCI
 
-LinkedIn:
-https://www.linkedin.com/in/raghu-raghu-b05175305
+🌱 Currently learning Data Engineering & Cloud Technologies
 
-Role:
-Backend Developer | Golang Developer | Data Engineering Enthusiast
+⚡ Passionate about Backend Development, APIs and Databases
 
-About Me:
-I am an aspiring Backend Developer with internship experience in Golang, API development, MongoDB, Oracle PL/SQL, Redis, REST APIs and GraphQL APIs.
+🎯 Goal: Become a Professional Backend / Data Engineer
 
-I am passionate about Backend Development, Data Engineering, Cloud Technologies and scalable software systems.
+---
 
-Education:
-Bachelor of Engineering (Electronics and Communication Engineering)
+🛠 Tech Stack
 
-Internship:
-Junior Software Developer Intern at AMCI
+Languages
 
-Experience:
-- Backend Development using Golang
-- OTP Based Authentication System
-- REST API Development
-- GraphQL API Testing
-- MongoDB Integration
-- Oracle PL/SQL
-- Redis Caching
-- API Debugging
-- Real-world Web Application Testing
+"Go" (https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Projects:
-1. Academic Companion
-   - Java + MySQL
-   - Student Management System
-   - SGPA Calculator
-   - Achievement and Certification Tracking
+Databases
 
-2. Indoor Air Purification System
-   - Air Quality Monitoring
-   - Embedded Systems Project
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+"Oracle" (https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+"Redis" (https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-Technical Skills:
+Tools
 
-Languages:
-Golang
-Python
-C++
-JavaScript
-HTML
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+"Postman" (https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Databases:
-MongoDB
-MySQL
-Oracle PL/SQL
+---
 
-Tools:
-Git
-GitHub
-Postman
-Redis
-VS Code
+💼 Working experience
 
-Soft Skills:
-Problem Solving
-Teamwork
-Time Management
-Quick Learner
-Analytical Thinking
+Junior Software Developer Associate – We Taac Technologies Ltd
 
-README REQUIREMENTS
+✔ Backend Development using Golang
 
-1. Add an animated wave GIF banner at top.
+✔ OTP Authentication System
 
-2. Add animated typing effect using readme-typing-svg with:
-   - Backend Developer
-   - Golang Developer
-   - API Developer
-   - Data Engineering Enthusiast
-   - Continuous Learner
+✔ REST & GraphQL APIs
 
-3. Create a modern dark theme design.
+✔ MongoDB & Oracle PL/SQL
 
-4. Add visitor counter badge.
+✔ Redis Caching
 
-5. Create an attractive About Me section with emojis.
+✔ API Testing & Debugging
 
-6. Add:
-   - Current Focus
-   - Learning Goals
-   - Career Goals
+---
 
-7. Add Tech Stack section with colorful badges for:
-   Golang
-   Python
-   C++
-   JavaScript
-   HTML
-   MongoDB
-   MySQL
-   Oracle
-   Redis
-   Git
-   GitHub
-   Postman
-   VS Code
+📂 Featured Projects
 
-8. Add Internship Experience section.
+🎓 Academic Companion
 
-9. Add Featured Projects section with project cards.
+Java + MySQL based Student Management System
 
-10. Add GitHub Stats:
-   - GitHub Stats Card
-   - GitHub Streak Card
-   - Top Languages Card
+- SGPA Calculator
+- Achievement Tracking
+- Certification Management
 
-Theme:
-tokyonight
+🌿 Indoor Air Purification System
 
-11. Add GitHub Trophy section.
+Embedded System project focused on improving indoor air quality.
 
-12. Add Contribution Snake Animation.
+---
 
-13. Add Connect With Me section with LinkedIn badge.
+📊 GitHub Stats
 
-14. Add a professional footer:
-"Building scalable backend systems one API at a time 🚀"
+https://github-readme-stats.vercel.app/api?username=raghavendraraghu9895&show_icons=true&theme=tokyonight
 
-15. Make it recruiter-friendly, visually attractive, modern, professional and fully responsive.
+https://github-readme-streak-stats.herokuapp.com/?user=raghavendraraghu9895&theme=tokyonight
 
-Generate complete README.md code only.
+https://github-readme-stats.vercel.app/api/top-langs/?username=raghavendraraghu9895&layout=compact&theme=tokyonight
+
+---
+
+🏆 GitHub Trophies
+
+https://github-profile-trophy.vercel.app/?username=raghavendraraghu9895&theme=onedark
+
+---
+
+🌐 Connect With Me
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Raghavendra_M-blue?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/raghu-raghu-b05175305)
+
+---
+
+🚀 Building scalable backend systems one API at a time
